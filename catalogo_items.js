@@ -128,6 +128,38 @@ window.catalogItems = [
     "image": "assets/courrier inusual_greevil full_230.jpeg"
   },
   {
+    "name": "Courrier Desierto $",
+    "hero": "",
+    "price": 19500,
+    "type": "Tradeable",
+    "stock": 1,
+    "image": "assets/courrier_ desierto_ $19500.jpeg"
+  },
+  {
+    "name": "Courrier Interdimensional",
+    "hero": "",
+    "price": 13000,
+    "type": "Tradeable",
+    "stock": 1,
+    "image": "assets/courrier_ interdimensional_ 13000 (2).jpeg"
+  },
+  {
+    "name": "Courrier Interdimensional",
+    "hero": "",
+    "price": 13000,
+    "type": "Tradeable",
+    "stock": 1,
+    "image": "assets/courrier_ interdimensional_ 13000.jpeg"
+  },
+  {
+    "name": "Courrier Luna Oscura $",
+    "hero": "",
+    "price": 11500,
+    "type": "Tradeable",
+    "stock": 1,
+    "image": "assets/courrier_ luna oscura_ $ 11500 (4).jpeg"
+  },
+  {
     "name": "Courrier Jade",
     "hero": "",
     "price": 9000,
