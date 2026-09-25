@@ -128,6 +128,14 @@ window.catalogItems = [
     "image": "assets/courrier inusual_greevil full_230.jpeg"
   },
   {
+    "name": "Courrier Jade",
+    "hero": "",
+    "price": 9000,
+    "type": "Tradeable",
+    "stock": 1,
+    "image": "assets/courrier_jade_9000.jpeg"
+  },
+  {
     "name": "Guitarra Doom",
     "hero": "",
     "price": 75,
