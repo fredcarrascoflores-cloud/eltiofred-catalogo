@@ -56,12 +56,12 @@ window.catalogItems = [
     "image": "assets/arcana_pudge full_68_stock_5.jpeg"
   },
   {
-    "name": "Arcana Rubick Full",
+    "name": "Arcana Rubickfull",
     "hero": "",
     "price": 97,
     "type": "Tradeable",
-    "stock": 5,
-    "image": "assets/arcana_rubick full_97_stock 5.jpeg"
+    "stock": 1,
+    "image": "assets/arcana_rubickfull_97.jpeg"
   },
   {
     "name": "Arcana Shadow F",
@@ -142,6 +142,14 @@ window.catalogItems = [
     "type": "Tradeable",
     "stock": 10,
     "image": "assets/INTERGALACTIC OBLITERATOR__315__10.jpeg"
+  },
+  {
+    "name": "Item Bug Axe",
+    "hero": "",
+    "price": 2200,
+    "type": "Tradeable",
+    "stock": 1,
+    "image": "assets/item_bug_axe_2200.jpeg"
   },
   {
     "name": "Serrucho Pudge",
