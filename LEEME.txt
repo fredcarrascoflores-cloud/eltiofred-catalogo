@@ -1,0 +1,13 @@
+EL TIO FRED - CATALOGO V8
+
+1) Pon tus fotos dentro de la carpeta ASSETS.
+2) Ejecuta ACTUALIZAR_CATALOGO.bat.
+3) Abre index.html.
+
+Nombres admitidos:
+  ARCANA WK__675__TRADEABLE.png
+  arcana_wk_675_legandario.png
+  arcana_wk_675_stock_3.png
+  ARCANA WK__675__TRADEABLE__10.png
+
+Si no indicas stock, se mostrará "Consultar stock". Para mostrar una cantidad exacta usa _stock_3 o el cuarto campo __3.

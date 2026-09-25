@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="El Tío Fred - Catálogo de items de Dota 2.">
+  <title>El Tío Fred | Dota 2 Store</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header class="hero"><div class="hero-bg"></div><div class="hero-inner">
+  <img class="logo" src="assets/logo.png" alt="El Tío Fred">
+  <div class="brand"><div class="eyebrow">DOTA 2 STORE</div><h1>EL TÍO FRED</h1><p>ITEMS TRADEABLES, A PEDIDO Y SETS</p></div>
+  <a class="wa-top" href="https://wa.me/51943122544" target="_blank" rel="noopener">💬 <span>Pedidos y consultas<br><strong>943 122 544</strong></span></a>
+</div></header>
+<nav class="nav"><div class="nav-inner">
+  <button class="nav-btn active" data-filter="all">⌂ Inicio</button><button class="nav-btn" data-filter="Tradeable">💎 Tradeables</button><button class="nav-btn" data-filter="A pedido">🛒 A pedido</button><button class="nav-btn" data-filter="Set">🎁 Sets</button><button class="nav-btn" data-filter="Oferta">🏷 Ofertas</button>
+  <div class="search"><input id="search" placeholder="Buscar item, héroe o set..." autocomplete="off"><span>⌕</span></div>
+</div></nav>
+<main class="container">
+<section class="benefits"><div><b>🛡 100% SEGURO</b><small>Tratos confiables</small></div><div><b>⚡ ENTREGA RÁPIDA</b><small>Según disponibilidad</small></div><div><b>🏷 PRECIOS</b><small>Consulta por WhatsApp</small></div></section>
+<section class="section-head"><div><span class="red-diamond"></span><div><h2>CATÁLOGO</h2><p id="count">Items disponibles</p></div></div><a class="wa-main" href="https://wa.me/51943122544?text=Hola%20Fred%2C%20quiero%20consultar%20por%20un%20item%20del%20cat%C3%A1logo." target="_blank" rel="noopener">WhatsApp</a></section>
+<section id="catalog" class="grid"></section><div id="empty" class="empty" hidden>No encontré items con esa búsqueda.</div>
+<section class="cta"><div><h2>¿No encuentras el item que buscas?</h2><p>También trabajamos <strong>items a pedido</strong>. Escríbeme y te cotizo.</p></div><a href="https://wa.me/51943122544?text=Hola%20Fred%2C%20busco%20un%20item%20de%20Dota%202%20que%20no%20aparece%20en%20el%20cat%C3%A1logo." target="_blank" rel="noopener">💬 Pedir por WhatsApp</a></section>
+</main><footer>© <span id="year"></span> El Tío Fred · Dota 2 Store · 943 122 544</footer>
+<script src="catalogo_items.js"></script><script src="script.js"></script>
+</body></html>
