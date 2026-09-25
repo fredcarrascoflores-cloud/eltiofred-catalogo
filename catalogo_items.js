@@ -28,8 +28,8 @@ window.catalogItems = [
     "hero": "",
     "price": 5,
     "type": "Tradeable",
-    "stock": 5,
-    "image": "assets/arcana_mayden full_5_stock_5.jpeg"
+    "stock": 55,
+    "image": "assets/arcana_mayden full_5_stock_55.jpeg"
   },
   {
     "name": "Arcana Monkey",
