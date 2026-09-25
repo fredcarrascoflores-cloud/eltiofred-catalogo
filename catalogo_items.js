@@ -26,10 +26,10 @@ window.catalogItems = [
   {
     "name": "Arcana Mayden Full",
     "hero": "",
-    "price": 5,
+    "price": 55,
     "type": "Tradeable",
-    "stock": 55,
-    "image": "assets/arcana_mayden full_5_stock_55.jpeg"
+    "stock": 5,
+    "image": "assets/arcana_mayden full_55_stock_5.jpeg"
   },
   {
     "name": "Arcana Monkey",
