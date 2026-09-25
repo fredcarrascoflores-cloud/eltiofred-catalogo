@@ -120,6 +120,22 @@ window.catalogItems = [
     "image": "assets/carmesi wr_560_stock_7.jpeg"
   },
   {
+    "name": "Clima Ceniza",
+    "hero": "",
+    "price": 35,
+    "type": "Tradeable",
+    "stock": 1,
+    "image": "assets/CLIMA_CENIZA_35 (1).jpeg"
+  },
+  {
+    "name": "Clima Lluvia",
+    "hero": "",
+    "price": 35,
+    "type": "Tradeable",
+    "stock": 1,
+    "image": "assets/CLIMA_LLUVIA_35 .jpeg"
+  },
+  {
     "name": "Courrier Inusual Greevil Full",
     "hero": "",
     "price": 230,
