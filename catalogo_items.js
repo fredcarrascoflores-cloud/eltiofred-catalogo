@@ -1,11 +1,11 @@
 window.catalogItems = [
   {
-    "name": "Arcana Jugger",
+    "name": "Arcana Jugger Full",
     "hero": "",
     "price": 73,
     "type": "Tradeable",
     "stock": 3,
-    "image": "assets/arcana_jugger_73_stock_3.jpeg"
+    "image": "assets/arcana_jugger full_73_stock_3.jpeg"
   },
   {
     "name": "Arcana Lc",
@@ -32,12 +32,12 @@ window.catalogItems = [
     "image": "assets/arcana_mayden full_5_stock_5.jpeg"
   },
   {
-    "name": "Arcana Monky",
+    "name": "Arcana Monkey",
     "hero": "",
     "price": 70,
     "type": "Tradeable",
     "stock": 5,
-    "image": "assets/arcana_monky_70_stock_5.jpeg"
+    "image": "assets/arcana_monkey_70_stock_5.jpeg"
   },
   {
     "name": "Arcana Phantom Full",
@@ -118,6 +118,14 @@ window.catalogItems = [
     "type": "Tradeable",
     "stock": 7,
     "image": "assets/carmesi wr_560_stock_7.jpeg"
+  },
+  {
+    "name": "Courrier Inusual Greevil Full",
+    "hero": "",
+    "price": 230,
+    "type": "Tradeable",
+    "stock": 1,
+    "image": "assets/courrier inusual_greevil full_230.jpeg"
   },
   {
     "name": "Guitarra Doom",
