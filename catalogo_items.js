@@ -1,5 +1,13 @@
 window.catalogItems = [
   {
+    "name": "Arcana Rubick Full",
+    "hero": "",
+    "price": 97,
+    "type": "Tradeable",
+    "stock": 5,
+    "image": "assets/arcana_rubick full_97_stock 5.jpeg"
+  },
+  {
     "name": "Arcana Wk",
     "hero": "",
     "price": 675,
