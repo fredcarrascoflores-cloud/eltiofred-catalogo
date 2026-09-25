@@ -136,20 +136,20 @@ window.catalogItems = [
     "image": "assets/courrier_ desierto_ $19500.jpeg"
   },
   {
-    "name": "Courrier Interdimensional",
+    "name": "Courrier Dorado $",
     "hero": "",
-    "price": 13000,
+    "price": 4100,
     "type": "Tradeable",
     "stock": 1,
-    "image": "assets/courrier_ interdimensional_ 13000 (2).jpeg"
+    "image": "assets/courrier_ dorado_$4100.jpeg"
   },
   {
-    "name": "Courrier Interdimensional",
+    "name": "Courrier Interdimensional $",
     "hero": "",
     "price": 13000,
     "type": "Tradeable",
     "stock": 1,
-    "image": "assets/courrier_ interdimensional_ 13000.jpeg"
+    "image": "assets/courrier_ interdimensional_ $13000.jpeg"
   },
   {
     "name": "Courrier Luna Oscura $",
