@@ -488,5 +488,15 @@ window.catalogItems = [
     "stock": 1,
     "variant": "Pack",
     "image": "assets/set_spirit breaker_80_pack.jpeg"
+  },
+  {
+    "name": "Terreno Monkey",
+    "hero": "",
+    "price": 49,
+    "currency": "S/",
+    "type": "Tradeable",
+    "stock": 1,
+    "variant": "",
+    "image": "assets/terreno_monkey_49.jpeg"
   }
 ];
