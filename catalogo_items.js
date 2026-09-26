@@ -240,6 +240,16 @@ window.catalogItems = [
     "image": "assets/courrier_jade_9000.jpeg"
   },
   {
+    "name": "Garras Ursa",
+    "hero": "",
+    "price": 43,
+    "currency": "S/",
+    "type": "Tradeable",
+    "stock": 1,
+    "variant": "",
+    "image": "assets/garras_ursa_43.jpeg"
+  },
+  {
     "name": "Guitarra Doom",
     "hero": "",
     "price": 75,
@@ -270,6 +280,16 @@ window.catalogItems = [
     "image": "assets/serrucho_pudge_65.jpeg"
   },
   {
+    "name": "Set Ember",
+    "hero": "",
+    "price": 200,
+    "currency": "S/",
+    "type": "Set",
+    "stock": 1,
+    "variant": "Pack",
+    "image": "assets/set_ember_200_pack.jpeg"
+  },
+  {
     "name": "Set Invoker",
     "hero": "",
     "price": 30,
@@ -288,6 +308,16 @@ window.catalogItems = [
     "stock": 2,
     "variant": "Pack",
     "image": "assets/set_invoker_50_pack_stock_2.jpeg"
+  },
+  {
+    "name": "Set Jugger",
+    "hero": "",
+    "price": 130,
+    "currency": "S/",
+    "type": "Set",
+    "stock": 1,
+    "variant": "Abierto",
+    "image": "assets/set_jugger_130_abierto.jpeg"
   },
   {
     "name": "Set Lion",
@@ -310,6 +340,26 @@ window.catalogItems = [
     "image": "assets/set_monkey_40_stock_10_pack.jpeg"
   },
   {
+    "name": "Set Pudge",
+    "hero": "",
+    "price": 600,
+    "currency": "S/",
+    "type": "Set",
+    "stock": 1,
+    "variant": "Pack",
+    "image": "assets/set_pudge_600_pack.jpeg"
+  },
+  {
+    "name": "Set Shadow Fiend",
+    "hero": "",
+    "price": 180,
+    "currency": "S/",
+    "type": "Set",
+    "stock": 1,
+    "variant": "Pack",
+    "image": "assets/set_shadow fiend_180_pack.jpeg"
+  },
+  {
     "name": "Set Spectre",
     "hero": "",
     "price": 40,
@@ -328,5 +378,15 @@ window.catalogItems = [
     "stock": 1,
     "variant": "Pack",
     "image": "assets/set_spirit breaker_80_pack.jpeg"
+  },
+  {
+    "name": "Whatsapp Image",
+    "hero": "",
+    "price": 2026,
+    "currency": "S/",
+    "type": "Tradeable",
+    "stock": 1,
+    "variant": "",
+    "image": "assets/WhatsApp Image 2026-09-25 at 10.32.00 PM.jpeg"
   }
 ];
