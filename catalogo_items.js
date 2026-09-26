@@ -282,6 +282,16 @@ window.catalogItems = [
   {
     "name": "Inmortal Monkey",
     "hero": "",
+    "price": 128,
+    "currency": "S/",
+    "type": "Tradeable",
+    "stock": 1,
+    "variant": "",
+    "image": "assets/inmortal_monkey_128.jpeg"
+  },
+  {
+    "name": "Inmortal Monkey",
+    "hero": "",
     "price": 130,
     "currency": "S/",
     "type": "Tradeable",
@@ -478,25 +488,5 @@ window.catalogItems = [
     "stock": 1,
     "variant": "Pack",
     "image": "assets/set_spirit breaker_80_pack.jpeg"
-  },
-  {
-    "name": "Whatsapp Image",
-    "hero": "",
-    "price": 2026,
-    "currency": "S/",
-    "type": "Tradeable",
-    "stock": 1,
-    "variant": "",
-    "image": "assets/WhatsApp Image 2026-09-26 at 12.40.11 PM.jpeg"
-  },
-  {
-    "name": "Whatsapp Image",
-    "hero": "",
-    "price": 2026,
-    "currency": "S/",
-    "type": "Tradeable",
-    "stock": 1,
-    "variant": "",
-    "image": "assets/WhatsApp Image 2026-09-26 at 12.45.56 PM.jpeg"
   }
 ];
