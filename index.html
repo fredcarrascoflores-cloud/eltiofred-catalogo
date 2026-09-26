@@ -21,7 +21,37 @@
 <section class="benefits"><div><b>🛡 100% SEGURO</b><small>Tratos confiables</small></div><div><b>⚡ ENTREGA RÁPIDA</b><small>Según disponibilidad</small></div><div><b>🏷 PRECIOS</b><small>Consulta por WhatsApp</small></div></section>
 <section class="section-head"><div><span class="red-diamond"></span><div><h2>CATÁLOGO</h2><p id="count">Items disponibles</p></div></div><a class="wa-main" href="https://wa.me/51943122544?text=Hola%20Fred%2C%20quiero%20consultar%20por%20un%20item%20del%20cat%C3%A1logo." target="_blank" rel="noopener">WhatsApp</a></section>
 <section id="catalog" class="grid"></section><div id="empty" class="empty" hidden>No encontré items con esa búsqueda.</div>
+
+<section class="reviews-section" id="opiniones">
+  <div class="reviews-head">
+    <div>
+      <div class="reviews-title"><span>⭐</span><div><h2>Opiniones de nuestros clientes</h2><p>Conoce lo que opinan quienes ya compraron en El Tío Fred.</p></div></div>
+    </div>
+    <button class="review-open" id="openReview">✎ Dejar una recomendación</button>
+  </div>
+  <div id="reviewsGrid" class="reviews-grid"></div>
+  <div id="reviewsEmpty" class="reviews-empty" hidden>Aún no hay recomendaciones publicadas.</div>
+  <div class="reviews-more-wrap">
+    <button class="reviews-more" id="reviewsMore" hidden>Ver todas las recomendaciones (<span id="reviewsTotal">0</span>)⌄</button>
+  </div>
+</section>
+
+<div class="review-modal" id="reviewModal" hidden>
+  <div class="review-modal-backdrop" data-close-review></div>
+  <div class="review-form-card" role="dialog" aria-modal="true" aria-labelledby="reviewFormTitle">
+    <button class="review-close" id="closeReview" aria-label="Cerrar">×</button>
+    <h2 id="reviewFormTitle">Deja tu recomendación</h2>
+    <p>Tu opinión nos ayuda a seguir mejorando.</p>
+    <label>Tu nombre<input id="reviewName" maxlength="40" placeholder="Ej. Juan Pérez" autocomplete="name"></label>
+    <label>Tu calificación<div class="star-picker" id="starPicker" aria-label="Selecciona una calificación"></div></label>
+    <label>Tu comentario<textarea id="reviewText" maxlength="400" rows="5" placeholder="Escribe tu recomendación..."></textarea></label>
+    <button class="review-submit" id="submitReview">➤ Enviar recomendación</button>
+    <small>Tu recomendación quedará pendiente de revisión antes de publicarse.</small>
+    <div class="review-status" id="reviewStatus" aria-live="polite"></div>
+  </div>
+</div>
+
 <section class="cta"><div><h2>¿No encuentras el item que buscas?</h2><p>También trabajamos <strong>items a pedido</strong>. Escríbeme y te cotizo.</p></div><a href="https://wa.me/51943122544?text=Hola%20Fred%2C%20busco%20un%20item%20de%20Dota%202%20que%20no%20aparece%20en%20el%20cat%C3%A1logo." target="_blank" rel="noopener">💬 Pedir por WhatsApp</a></section>
 </main><footer>© <span id="year"></span> El Tío Fred · Dota 2 Store · 943 122 544</footer>
-<script src="catalogo_items.js"></script><script src="script.js"></script>
+<script src="catalogo_items.js"></script><script src="script.js"></script><script src="opiniones.js"></script>
 </body></html>
