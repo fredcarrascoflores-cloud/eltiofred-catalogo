@@ -280,6 +280,16 @@ window.catalogItems = [
     "image": "assets/serrucho_pudge_65.jpeg"
   },
   {
+    "name": "Set Abadon",
+    "hero": "",
+    "price": 45,
+    "currency": "S/",
+    "type": "Set",
+    "stock": 1,
+    "variant": "Pack",
+    "image": "assets/set_abadon_45_pack.jpeg"
+  },
+  {
     "name": "Set Ember",
     "hero": "",
     "price": 200,
@@ -378,15 +388,5 @@ window.catalogItems = [
     "stock": 1,
     "variant": "Pack",
     "image": "assets/set_spirit breaker_80_pack.jpeg"
-  },
-  {
-    "name": "Whatsapp Image",
-    "hero": "",
-    "price": 2026,
-    "currency": "S/",
-    "type": "Tradeable",
-    "stock": 1,
-    "variant": "",
-    "image": "assets/WhatsApp Image 2026-09-25 at 10.32.00 PM.jpeg"
   }
 ];
