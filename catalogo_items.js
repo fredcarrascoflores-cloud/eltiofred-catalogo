@@ -1,5 +1,15 @@
 window.catalogItems = [
   {
+    "name": "Arcana Phantom Nivel",
+    "hero": "",
+    "price": 2,
+    "currency": "S/",
+    "type": "Tradeable",
+    "stock": 1,
+    "variant": "",
+    "image": "assets/arcana phantom nivel 2_63.jpeg"
+  },
+  {
     "name": "Arcana Earthshaker",
     "hero": "",
     "price": 315,
@@ -78,6 +88,16 @@ window.catalogItems = [
     "stock": 5,
     "variant": "",
     "image": "assets/arcana_pudge full_68_stock_5.jpeg"
+  },
+  {
+    "name": "Arcana Pudge Nivel",
+    "hero": "",
+    "price": 1,
+    "currency": "S/",
+    "type": "Tradeable",
+    "stock": 1,
+    "variant": "",
+    "image": "assets/arcana_pudge nivel 1_57.jpeg"
   },
   {
     "name": "Arcana Rubick Full",
@@ -260,6 +280,36 @@ window.catalogItems = [
     "image": "assets/guitarra_doom_75.jpeg"
   },
   {
+    "name": "Inmortal Monkey",
+    "hero": "",
+    "price": 130,
+    "currency": "S/",
+    "type": "Tradeable",
+    "stock": 1,
+    "variant": "",
+    "image": "assets/inmortal_monkey_130.jpeg"
+  },
+  {
+    "name": "Inmortal Monkey",
+    "hero": "",
+    "price": 28,
+    "currency": "S/",
+    "type": "Tradeable",
+    "stock": 1,
+    "variant": "",
+    "image": "assets/inmortal_monkey_28.jpeg"
+  },
+  {
+    "name": "Inmortal Phantom",
+    "hero": "",
+    "price": 45,
+    "currency": "S/",
+    "type": "Tradeable",
+    "stock": 1,
+    "variant": "",
+    "image": "assets/inmortal_phantom_45.jpeg"
+  },
+  {
     "name": "Inmortal Slark",
     "hero": "",
     "price": 300,
@@ -270,6 +320,26 @@ window.catalogItems = [
     "image": "assets/inmortal_slark_300.jpeg"
   },
   {
+    "name": "Inmortal Slark",
+    "hero": "",
+    "price": 48,
+    "currency": "S/",
+    "type": "Tradeable",
+    "stock": 1,
+    "variant": "",
+    "image": "assets/inmortal_slark_48.jpeg"
+  },
+  {
+    "name": "Inmortal Slark",
+    "hero": "",
+    "price": 98,
+    "currency": "S/",
+    "type": "Tradeable",
+    "stock": 1,
+    "variant": "",
+    "image": "assets/inmortal_slark_98.jpeg"
+  },
+  {
     "name": "Item Bug Axe",
     "hero": "",
     "price": 2200,
@@ -278,6 +348,16 @@ window.catalogItems = [
     "stock": 1,
     "variant": "",
     "image": "assets/item_bug_axe_2200.jpeg"
+  },
+  {
+    "name": "Mitico Morphling",
+    "hero": "",
+    "price": 94,
+    "currency": "S/",
+    "type": "Tradeable",
+    "stock": 1,
+    "variant": "",
+    "image": "assets/mitico_morphling_94.jpeg"
   },
   {
     "name": "Serrucho Pudge",
@@ -407,16 +487,6 @@ window.catalogItems = [
     "type": "Tradeable",
     "stock": 1,
     "variant": "",
-    "image": "assets/WhatsApp Image 2026-09-26 at 12.39.17 PM.jpeg"
-  },
-  {
-    "name": "Whatsapp Image",
-    "hero": "",
-    "price": 2026,
-    "currency": "S/",
-    "type": "Tradeable",
-    "stock": 1,
-    "variant": "",
     "image": "assets/WhatsApp Image 2026-09-26 at 12.40.11 PM.jpeg"
   },
   {
@@ -427,86 +497,6 @@ window.catalogItems = [
     "type": "Tradeable",
     "stock": 1,
     "variant": "",
-    "image": "assets/WhatsApp Image 2026-09-26 at 12.41.22 PM.jpeg"
-  },
-  {
-    "name": "Whatsapp Image",
-    "hero": "",
-    "price": 2026,
-    "currency": "S/",
-    "type": "Tradeable",
-    "stock": 1,
-    "variant": "",
-    "image": "assets/WhatsApp Image 2026-09-26 at 12.42.13 PM.jpeg"
-  },
-  {
-    "name": "Whatsapp Image",
-    "hero": "",
-    "price": 2026,
-    "currency": "S/",
-    "type": "Tradeable",
-    "stock": 1,
-    "variant": "",
-    "image": "assets/WhatsApp Image 2026-09-26 at 12.43.23 PM.jpeg"
-  },
-  {
-    "name": "Whatsapp Image",
-    "hero": "",
-    "price": 2026,
-    "currency": "S/",
-    "type": "Tradeable",
-    "stock": 1,
-    "variant": "",
-    "image": "assets/WhatsApp Image 2026-09-26 at 12.44.21 PM.jpeg"
-  },
-  {
-    "name": "Whatsapp Image",
-    "hero": "",
-    "price": 2026,
-    "currency": "S/",
-    "type": "Tradeable",
-    "stock": 1,
-    "variant": "",
-    "image": "assets/WhatsApp Image 2026-09-26 at 12.44.49 PM.jpeg"
-  },
-  {
-    "name": "Whatsapp Image",
-    "hero": "",
-    "price": 2026,
-    "currency": "S/",
-    "type": "Tradeable",
-    "stock": 1,
-    "variant": "",
     "image": "assets/WhatsApp Image 2026-09-26 at 12.45.56 PM.jpeg"
-  },
-  {
-    "name": "Whatsapp Image",
-    "hero": "",
-    "price": 2026,
-    "currency": "S/",
-    "type": "Tradeable",
-    "stock": 1,
-    "variant": "",
-    "image": "assets/WhatsApp Image 2026-09-26 at 12.46.39 PM.jpeg"
-  },
-  {
-    "name": "Whatsapp Image",
-    "hero": "",
-    "price": 2026,
-    "currency": "S/",
-    "type": "Tradeable",
-    "stock": 1,
-    "variant": "",
-    "image": "assets/WhatsApp Image 2026-09-26 at 12.47.45 PM.jpeg"
-  },
-  {
-    "name": "Whatsapp Image",
-    "hero": "",
-    "price": 2026,
-    "currency": "S/",
-    "type": "Tradeable",
-    "stock": 1,
-    "variant": "",
-    "image": "assets/WhatsApp Image 2026-09-26 at 12.50.35 PM.jpeg"
   }
 ];
