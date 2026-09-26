@@ -1,5 +1,13 @@
 window.catalogItems = [
   {
+    "name": "Arcana Earthshaker",
+    "hero": "",
+    "price": 315,
+    "type": "Tradeable",
+    "stock": 1,
+    "image": "assets/arcana_earthshaker_315.jpeg"
+  },
+  {
     "name": "Arcana Jugger Full",
     "hero": "",
     "price": 73,
@@ -80,6 +88,14 @@ window.catalogItems = [
     "image": "assets/arcana_sky full_65.jpeg"
   },
   {
+    "name": "Arcana Terrorblade",
+    "hero": "",
+    "price": 100,
+    "type": "Tradeable",
+    "stock": 1,
+    "image": "assets/arcana_terrorblade_100.jpeg"
+  },
+  {
     "name": "Arcana Windranger",
     "hero": "",
     "price": 315,
@@ -88,12 +104,12 @@ window.catalogItems = [
     "image": "assets/arcana_windranger_315_stock_5.jpeg"
   },
   {
-    "name": "Arcana Wk",
+    "name": "Arcana Wraith King",
     "hero": "",
     "price": 675,
     "type": "Tradeable",
     "stock": 5,
-    "image": "assets/arcana_wk_675_stock_5.png"
+    "image": "assets/arcana_wraith king_675_stock_5.png"
   },
   {
     "name": "Arcana Zeus",
@@ -102,14 +118,6 @@ window.catalogItems = [
     "type": "Tradeable",
     "stock": 1,
     "image": "assets/arcana_zeus_75.jpeg"
-  },
-  {
-    "name": "Arcano Tb",
-    "hero": "",
-    "price": 100,
-    "type": "Tradeable",
-    "stock": 1,
-    "image": "assets/arcano_tb_100.jpeg"
   },
   {
     "name": "Carmesi Windranger",
@@ -190,14 +198,6 @@ window.catalogItems = [
     "type": "Tradeable",
     "stock": 1,
     "image": "assets/guitarra_doom_75.jpeg"
-  },
-  {
-    "name": "Intergalactic Obliterator",
-    "hero": "",
-    "price": 315,
-    "type": "Tradeable",
-    "stock": 10,
-    "image": "assets/INTERGALACTIC OBLITERATOR__315__10.jpeg"
   },
   {
     "name": "Item Bug Axe",
