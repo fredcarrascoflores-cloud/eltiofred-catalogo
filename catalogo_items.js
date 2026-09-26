@@ -56,12 +56,12 @@ window.catalogItems = [
     "image": "assets/arcana_pudge full_68_stock_5.jpeg"
   },
   {
-    "name": "Arcana Rubickfull",
+    "name": "Arcana Rubick Full",
     "hero": "",
     "price": 97,
     "type": "Tradeable",
     "stock": 1,
-    "image": "assets/arcana_rubickfull_97.jpeg"
+    "image": "assets/arcana_rubick full_97.jpeg"
   },
   {
     "name": "Arcana Shadow F",
@@ -80,20 +80,20 @@ window.catalogItems = [
     "image": "assets/arcana_sky full_65.jpeg"
   },
   {
+    "name": "Arcana Windranger",
+    "hero": "",
+    "price": 315,
+    "type": "Tradeable",
+    "stock": 5,
+    "image": "assets/arcana_windranger_315_stock_5.jpeg"
+  },
+  {
     "name": "Arcana Wk",
     "hero": "",
     "price": 675,
     "type": "Tradeable",
     "stock": 5,
     "image": "assets/arcana_wk_675_stock_5.png"
-  },
-  {
-    "name": "Arcana Wr",
-    "hero": "",
-    "price": 315,
-    "type": "Tradeable",
-    "stock": 5,
-    "image": "assets/arcana_wr_315_stock_5.jpeg"
   },
   {
     "name": "Arcana Zeus",
@@ -112,12 +112,12 @@ window.catalogItems = [
     "image": "assets/arcano_tb_100.jpeg"
   },
   {
-    "name": "Carmesi Wr",
+    "name": "Carmesi Windranger",
     "hero": "",
     "price": 560,
     "type": "Tradeable",
     "stock": 7,
-    "image": "assets/carmesi wr_560_stock_7.jpeg"
+    "image": "assets/carmesi windranger_560_stock_7.jpeg"
   },
   {
     "name": "Clima Ceniza",
