@@ -1,15 +1,5 @@
 window.catalogItems = [
   {
-    "name": "Arcana Phantom Nivel",
-    "hero": "",
-    "price": 2,
-    "currency": "S/",
-    "type": "Tradeable",
-    "stock": 1,
-    "variant": "",
-    "image": "assets/arcana phantom nivel 2_63.jpeg"
-  },
-  {
     "name": "Arcana Earthshaker",
     "hero": "",
     "price": 315,
@@ -80,6 +70,16 @@ window.catalogItems = [
     "image": "assets/arcana_phantom full_75_stock_5.jpeg"
   },
   {
+    "name": "Arcana Phantom Nivel Dos",
+    "hero": "",
+    "price": 63,
+    "currency": "S/",
+    "type": "Tradeable",
+    "stock": 1,
+    "variant": "",
+    "image": "assets/arcana_phantom_ nivel dos_63.jpeg"
+  },
+  {
     "name": "Arcana Pudge Full",
     "hero": "",
     "price": 68,
@@ -90,14 +90,14 @@ window.catalogItems = [
     "image": "assets/arcana_pudge full_68_stock_5.jpeg"
   },
   {
-    "name": "Arcana Pudge Nivel",
+    "name": "Arcana Pudge Nivel Uno",
     "hero": "",
-    "price": 1,
+    "price": 57,
     "currency": "S/",
     "type": "Tradeable",
     "stock": 1,
     "variant": "",
-    "image": "assets/arcana_pudge nivel 1_57.jpeg"
+    "image": "assets/arcana_pudge_ nivel uno_57.jpeg"
   },
   {
     "name": "Arcana Rubick Full",
