@@ -270,6 +270,36 @@ window.catalogItems = [
     "image": "assets/serrucho_pudge_65.jpeg"
   },
   {
+    "name": "Set Invoker",
+    "hero": "",
+    "price": 30,
+    "currency": "S/",
+    "type": "Set",
+    "stock": 1,
+    "variant": "Pack",
+    "image": "assets/set_invoker_30_pack.jpeg"
+  },
+  {
+    "name": "Set Invoker",
+    "hero": "",
+    "price": 50,
+    "currency": "S/",
+    "type": "Set",
+    "stock": 2,
+    "variant": "Pack",
+    "image": "assets/set_invoker_50_pack_stock_2.jpeg"
+  },
+  {
+    "name": "Set Lion",
+    "hero": "",
+    "price": 30,
+    "currency": "S/",
+    "type": "Set",
+    "stock": 5,
+    "variant": "Pack",
+    "image": "assets/set_lion_30_pack_stock_5.jpeg"
+  },
+  {
     "name": "Set Monkey",
     "hero": "",
     "price": 40,
@@ -278,5 +308,25 @@ window.catalogItems = [
     "stock": 10,
     "variant": "Pack",
     "image": "assets/set_monkey_40_stock_10_pack.jpeg"
+  },
+  {
+    "name": "Set Spectre",
+    "hero": "",
+    "price": 40,
+    "currency": "S/",
+    "type": "Set",
+    "stock": 1,
+    "variant": "Pack",
+    "image": "assets/set_spectre_40_pack.jpeg"
+  },
+  {
+    "name": "Set Spirit Breaker",
+    "hero": "",
+    "price": 80,
+    "currency": "S/",
+    "type": "Set",
+    "stock": 1,
+    "variant": "Pack",
+    "image": "assets/set_spirit breaker_80_pack.jpeg"
   }
 ];
