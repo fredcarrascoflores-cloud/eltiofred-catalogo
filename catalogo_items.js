@@ -22,12 +22,12 @@ window.catalogItems = [
   {
     "name": "Arcana Lc",
     "hero": "",
-    "price": 70,
+    "price": 73,
     "currency": "S/",
     "type": "Tradeable",
     "stock": 1,
     "variant": "",
-    "image": "assets/arcana_lc_70.jpeg"
+    "image": "assets/arcana_lc_73.jpeg"
   },
   {
     "name": "Arcana Lina",
