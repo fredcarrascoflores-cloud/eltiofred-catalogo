@@ -310,16 +310,6 @@ window.catalogItems = [
     "image": "assets/inmortal_monkey_28.jpeg"
   },
   {
-    "name": "Inmortal Phantom",
-    "hero": "",
-    "price": 45,
-    "currency": "S/",
-    "type": "Tradeable",
-    "stock": 1,
-    "variant": "",
-    "image": "assets/inmortal_phantom_45.jpeg"
-  },
-  {
     "name": "Inmortal Slark",
     "hero": "",
     "price": 300,
@@ -328,16 +318,6 @@ window.catalogItems = [
     "stock": 1,
     "variant": "",
     "image": "assets/inmortal_slark_300.jpeg"
-  },
-  {
-    "name": "Inmortal Slark",
-    "hero": "",
-    "price": 48,
-    "currency": "S/",
-    "type": "Tradeable",
-    "stock": 1,
-    "variant": "",
-    "image": "assets/inmortal_slark_48.jpeg"
   },
   {
     "name": "Inmortal Slark",
