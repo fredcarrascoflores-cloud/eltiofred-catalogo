@@ -30,16 +30,6 @@ window.catalogItems = [
     "image": "assets/arcana_lc_73.jpeg"
   },
   {
-    "name": "Arcana Lina",
-    "hero": "",
-    "price": 75,
-    "currency": "S/",
-    "type": "Tradeable",
-    "stock": 1,
-    "variant": "",
-    "image": "assets/arcana_lina_75.jpeg"
-  },
-  {
     "name": "Arcana Mayden Full",
     "hero": "",
     "price": 55,
