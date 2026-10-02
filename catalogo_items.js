@@ -120,16 +120,6 @@ window.catalogItems = [
     "image": "assets/arcana_sky full_65.jpeg"
   },
   {
-    "name": "Arcana Terrorblade",
-    "hero": "",
-    "price": 100,
-    "currency": "S/",
-    "type": "Tradeable",
-    "stock": 1,
-    "variant": "",
-    "image": "assets/arcana_terrorblade_100.jpeg"
-  },
-  {
     "name": "Arcana Windranger",
     "hero": "",
     "price": 315,
@@ -270,56 +260,6 @@ window.catalogItems = [
     "image": "assets/guitarra_doom_75.jpeg"
   },
   {
-    "name": "Inmortal Monkey",
-    "hero": "",
-    "price": 128,
-    "currency": "S/",
-    "type": "Tradeable",
-    "stock": 1,
-    "variant": "",
-    "image": "assets/inmortal_monkey_128.jpeg"
-  },
-  {
-    "name": "Inmortal Monkey",
-    "hero": "",
-    "price": 130,
-    "currency": "S/",
-    "type": "Tradeable",
-    "stock": 1,
-    "variant": "",
-    "image": "assets/inmortal_monkey_130.jpeg"
-  },
-  {
-    "name": "Inmortal Monkey",
-    "hero": "",
-    "price": 28,
-    "currency": "S/",
-    "type": "Tradeable",
-    "stock": 1,
-    "variant": "",
-    "image": "assets/inmortal_monkey_28.jpeg"
-  },
-  {
-    "name": "Inmortal Slark",
-    "hero": "",
-    "price": 300,
-    "currency": "S/",
-    "type": "Tradeable",
-    "stock": 1,
-    "variant": "",
-    "image": "assets/inmortal_slark_300.jpeg"
-  },
-  {
-    "name": "Inmortal Slark",
-    "hero": "",
-    "price": 98,
-    "currency": "S/",
-    "type": "Tradeable",
-    "stock": 1,
-    "variant": "",
-    "image": "assets/inmortal_slark_98.jpeg"
-  },
-  {
     "name": "Item Bug Axe",
     "hero": "",
     "price": 2200,
@@ -360,6 +300,106 @@ window.catalogItems = [
     "image": "assets/set_abadon_45_pack.jpeg"
   },
   {
+    "name": "Set Alchemist",
+    "hero": "",
+    "price": 30,
+    "currency": "S/",
+    "type": "Set",
+    "stock": 1,
+    "variant": "Pack",
+    "image": "assets/set_alchemist_30_pack.jpeg"
+  },
+  {
+    "name": "Set Axe",
+    "hero": "",
+    "price": 65,
+    "currency": "S/",
+    "type": "Set",
+    "stock": 1,
+    "variant": "Pack",
+    "image": "assets/set_axe_65_pack.jpeg"
+  },
+  {
+    "name": "Set Broodmother",
+    "hero": "",
+    "price": 40,
+    "currency": "S/",
+    "type": "Set",
+    "stock": 1,
+    "variant": "Abierto",
+    "image": "assets/set_broodmother_40_abierto.jpeg"
+  },
+  {
+    "name": "Set Clockwerk",
+    "hero": "",
+    "price": 40,
+    "currency": "S/",
+    "type": "Set",
+    "stock": 1,
+    "variant": "Pack",
+    "image": "assets/set_clockwerk_40_pack.jpeg"
+  },
+  {
+    "name": "Set Dazzle",
+    "hero": "",
+    "price": 15,
+    "currency": "S/",
+    "type": "Set",
+    "stock": 1,
+    "variant": "Pack",
+    "image": "assets/set_dazzle_15_pack.jpeg"
+  },
+  {
+    "name": "Set Death Prophet",
+    "hero": "",
+    "price": 60,
+    "currency": "S/",
+    "type": "Set",
+    "stock": 1,
+    "variant": "Pack",
+    "image": "assets/set_death prophet_60_pack.jpeg"
+  },
+  {
+    "name": "Set Doom",
+    "hero": "",
+    "price": 60,
+    "currency": "S/",
+    "type": "Set",
+    "stock": 1,
+    "variant": "Pack",
+    "image": "assets/set_doom_60_pack.jpeg"
+  },
+  {
+    "name": "Set Dragon Knigth",
+    "hero": "",
+    "price": 100,
+    "currency": "S/",
+    "type": "Set",
+    "stock": 1,
+    "variant": "Pack",
+    "image": "assets/set_dragon knigth_100_pack.jpeg"
+  },
+  {
+    "name": "Set Drow",
+    "hero": "",
+    "price": 130,
+    "currency": "S/",
+    "type": "Set",
+    "stock": 1,
+    "variant": "Pack",
+    "image": "assets/set_drow_130_pack.jpeg"
+  },
+  {
+    "name": "Set Earth Spirit",
+    "hero": "",
+    "price": 50,
+    "currency": "S/",
+    "type": "Set",
+    "stock": 1,
+    "variant": "Pack",
+    "image": "assets/set_earth spirit_50_pack.jpeg"
+  },
+  {
     "name": "Set Ember",
     "hero": "",
     "price": 200,
@@ -368,6 +408,36 @@ window.catalogItems = [
     "stock": 1,
     "variant": "Pack",
     "image": "assets/set_ember_200_pack.jpeg"
+  },
+  {
+    "name": "Set Faceless Void",
+    "hero": "",
+    "price": 30,
+    "currency": "S/",
+    "type": "Set",
+    "stock": 1,
+    "variant": "Pack",
+    "image": "assets/set_faceless void_30_pack.jpeg"
+  },
+  {
+    "name": "Set Gyrocopter",
+    "hero": "",
+    "price": 75,
+    "currency": "S/",
+    "type": "Set",
+    "stock": 1,
+    "variant": "Pack",
+    "image": "assets/set_gyrocopter_75_pack.jpeg"
+  },
+  {
+    "name": "Set Gyrocopter",
+    "hero": "",
+    "price": 85,
+    "currency": "S/",
+    "type": "Set",
+    "stock": 1,
+    "variant": "Pack",
+    "image": "assets/set_gyrocopter_85_pack.jpeg"
   },
   {
     "name": "Set Invoker",
@@ -400,6 +470,16 @@ window.catalogItems = [
     "image": "assets/set_jugger_130_abierto.jpeg"
   },
   {
+    "name": "Set Kunkka",
+    "hero": "",
+    "price": 45,
+    "currency": "S/",
+    "type": "Set",
+    "stock": 1,
+    "variant": "Pack",
+    "image": "assets/set_kunkka_45_pack.jpeg"
+  },
+  {
     "name": "Set Lion",
     "hero": "",
     "price": 30,
@@ -410,6 +490,36 @@ window.catalogItems = [
     "image": "assets/set_lion_30_pack_stock_5.jpeg"
   },
   {
+    "name": "Set Lycan",
+    "hero": "",
+    "price": 55,
+    "currency": "S/",
+    "type": "Set",
+    "stock": 1,
+    "variant": "Pack",
+    "image": "assets/set_lycan_55_pack.jpeg"
+  },
+  {
+    "name": "Set Magnus",
+    "hero": "",
+    "price": 150,
+    "currency": "S/",
+    "type": "Set",
+    "stock": 1,
+    "variant": "Pack",
+    "image": "assets/set_magnus_150_pack.jpeg"
+  },
+  {
+    "name": "Set Marci",
+    "hero": "",
+    "price": 55,
+    "currency": "S/",
+    "type": "Set",
+    "stock": 1,
+    "variant": "Pack",
+    "image": "assets/set_marci_55_pack.jpeg"
+  },
+  {
     "name": "Set Monkey",
     "hero": "",
     "price": 40,
@@ -418,6 +528,66 @@ window.catalogItems = [
     "stock": 10,
     "variant": "Pack",
     "image": "assets/set_monkey_40_stock_10_pack.jpeg"
+  },
+  {
+    "name": "Set Nature",
+    "hero": "",
+    "price": 55,
+    "currency": "S/",
+    "type": "Set",
+    "stock": 1,
+    "variant": "Pack",
+    "image": "assets/set_nature_55_pack.jpeg"
+  },
+  {
+    "name": "Set Nature",
+    "hero": "",
+    "price": 80,
+    "currency": "S/",
+    "type": "Set",
+    "stock": 1,
+    "variant": "Pack",
+    "image": "assets/set_nature_80_pack.jpeg"
+  },
+  {
+    "name": "Set Necrophos",
+    "hero": "",
+    "price": 50,
+    "currency": "S/",
+    "type": "Set",
+    "stock": 1,
+    "variant": "Pack",
+    "image": "assets/set_necrophos_50_pack.jpeg"
+  },
+  {
+    "name": "Set Ogre Magi",
+    "hero": "",
+    "price": 45,
+    "currency": "S/",
+    "type": "Set",
+    "stock": 1,
+    "variant": "Pack",
+    "image": "assets/set_ogre magi_45_´pack.jpeg"
+  },
+  {
+    "name": "Set Pangolier",
+    "hero": "",
+    "price": 60,
+    "currency": "S/",
+    "type": "Set",
+    "stock": 1,
+    "variant": "Pack",
+    "image": "assets/set_pangolier_60_pack.jpeg"
+  },
+  {
+    "name": "Set Primal Beast",
+    "hero": "",
+    "price": 30,
+    "currency": "S/",
+    "type": "Set",
+    "stock": 1,
+    "variant": "Pack",
+    "image": "assets/set_primal beast_30_pack.jpeg"
   },
   {
     "name": "Set Pudge",
@@ -440,6 +610,36 @@ window.catalogItems = [
     "image": "assets/set_shadow fiend_180_pack.jpeg"
   },
   {
+    "name": "Set Shadow Shaman",
+    "hero": "",
+    "price": 80,
+    "currency": "S/",
+    "type": "Set",
+    "stock": 1,
+    "variant": "Pack",
+    "image": "assets/set_shadow shaman_80_pack.jpeg"
+  },
+  {
+    "name": "Set Skywrath Mage",
+    "hero": "",
+    "price": 35,
+    "currency": "S/",
+    "type": "Set",
+    "stock": 1,
+    "variant": "Pack",
+    "image": "assets/set_skywrath mage_35_pack.jpeg"
+  },
+  {
+    "name": "Set Snapfire",
+    "hero": "",
+    "price": 55,
+    "currency": "S/",
+    "type": "Set",
+    "stock": 1,
+    "variant": "Pack",
+    "image": "assets/set_snapfire_55_pack.jpeg"
+  },
+  {
     "name": "Set Spectre",
     "hero": "",
     "price": 40,
@@ -458,6 +658,116 @@ window.catalogItems = [
     "stock": 1,
     "variant": "Pack",
     "image": "assets/set_spirit breaker_80_pack.jpeg"
+  },
+  {
+    "name": "Set Storm Spirit",
+    "hero": "",
+    "price": 45,
+    "currency": "S/",
+    "type": "Set",
+    "stock": 1,
+    "variant": "Pack",
+    "image": "assets/set_storm spirit_45_pack.jpeg"
+  },
+  {
+    "name": "Set Sven",
+    "hero": "",
+    "price": 110,
+    "currency": "S/",
+    "type": "Set",
+    "stock": 1,
+    "variant": "Pack",
+    "image": "assets/set_sven_110_pack.jpeg"
+  },
+  {
+    "name": "Set Tinker",
+    "hero": "",
+    "price": 20,
+    "currency": "S/",
+    "type": "Set",
+    "stock": 1,
+    "variant": "Pack",
+    "image": "assets/set_tinker_20_pack.jpeg"
+  },
+  {
+    "name": "Set Tiny",
+    "hero": "",
+    "price": 30,
+    "currency": "S/",
+    "type": "Set",
+    "stock": 1,
+    "variant": "Pack",
+    "image": "assets/set_tiny_30_pack.jpeg"
+  },
+  {
+    "name": "Set Tusk",
+    "hero": "",
+    "price": 45,
+    "currency": "S/",
+    "type": "Set",
+    "stock": 1,
+    "variant": "Pack",
+    "image": "assets/set_tusk_45_pack.jpeg"
+  },
+  {
+    "name": "Set Underlord",
+    "hero": "",
+    "price": 40,
+    "currency": "S/",
+    "type": "Set",
+    "stock": 1,
+    "variant": "Abierto",
+    "image": "assets/set_underlord_40_abierto.jpeg"
+  },
+  {
+    "name": "Set Undying",
+    "hero": "",
+    "price": 60,
+    "currency": "S/",
+    "type": "Set",
+    "stock": 1,
+    "variant": "Pack",
+    "image": "assets/set_undying_60_pack.jpeg"
+  },
+  {
+    "name": "Set Venomacer",
+    "hero": "",
+    "price": 30,
+    "currency": "S/",
+    "type": "Set",
+    "stock": 1,
+    "variant": "Pack",
+    "image": "assets/set_venomacer_30_pack.jpeg"
+  },
+  {
+    "name": "Set Witch Doctor",
+    "hero": "",
+    "price": 110,
+    "currency": "S/",
+    "type": "Set",
+    "stock": 1,
+    "variant": "Pack",
+    "image": "assets/set_witch doctor_110_pack.jpeg"
+  },
+  {
+    "name": "Set Wraith King",
+    "hero": "",
+    "price": 20,
+    "currency": "S/",
+    "type": "Set",
+    "stock": 1,
+    "variant": "Pack",
+    "image": "assets/set_wraith king_20_pack.jpeg"
+  },
+  {
+    "name": "Set Wraith King",
+    "hero": "",
+    "price": 40,
+    "currency": "S/",
+    "type": "Set",
+    "stock": 1,
+    "variant": "Pack",
+    "image": "assets/set_wraith king_40_pack.jpeg"
   },
   {
     "name": "Terreno Monkey",
