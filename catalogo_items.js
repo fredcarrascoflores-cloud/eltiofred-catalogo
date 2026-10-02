@@ -20,14 +20,14 @@ window.catalogItems = [
     "image": "assets/arcana_jugger full_73_stock_3.jpeg"
   },
   {
-    "name": "Arcana Lc",
+    "name": "Arcana Legion Commander",
     "hero": "",
     "price": 73,
     "currency": "S/",
     "type": "Tradeable",
     "stock": 1,
     "variant": "",
-    "image": "assets/arcana_lc_73.jpeg"
+    "image": "assets/arcana_legion commander_73.jpeg"
   },
   {
     "name": "Arcana Mayden Full",
