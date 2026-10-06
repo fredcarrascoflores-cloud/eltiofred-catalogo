@@ -60,16 +60,6 @@ window.catalogItems = [
     "image": "assets/arcana_phantom full_75_stock_5.jpeg"
   },
   {
-    "name": "Arcana Phantom Nivel Dos",
-    "hero": "",
-    "price": 63,
-    "currency": "S/",
-    "type": "Tradeable",
-    "stock": 1,
-    "variant": "",
-    "image": "assets/arcana_phantom_ nivel dos_63.jpeg"
-  },
-  {
     "name": "Arcana Pudge Full",
     "hero": "",
     "price": 68,
@@ -78,16 +68,6 @@ window.catalogItems = [
     "stock": 5,
     "variant": "",
     "image": "assets/arcana_pudge full_68_stock_5.jpeg"
-  },
-  {
-    "name": "Arcana Pudge Nivel Uno",
-    "hero": "",
-    "price": 57,
-    "currency": "S/",
-    "type": "Tradeable",
-    "stock": 1,
-    "variant": "",
-    "image": "assets/arcana_pudge_ nivel uno_57.jpeg"
   },
   {
     "name": "Arcana Rubick Full",
@@ -180,16 +160,6 @@ window.catalogItems = [
     "image": "assets/CLIMA_LLUVIA_35 .jpeg"
   },
   {
-    "name": "Courrier Inusual Greevil Full",
-    "hero": "",
-    "price": 230,
-    "currency": "S/",
-    "type": "Tradeable",
-    "stock": 1,
-    "variant": "",
-    "image": "assets/courrier inusual_greevil full_230.jpeg"
-  },
-  {
     "name": "Courrier Desierto",
     "hero": "",
     "price": 19500,
@@ -240,16 +210,6 @@ window.catalogItems = [
     "image": "assets/courrier_jade_9000.jpeg"
   },
   {
-    "name": "Garras Ursa",
-    "hero": "",
-    "price": 43,
-    "currency": "S/",
-    "type": "Tradeable",
-    "stock": 1,
-    "variant": "",
-    "image": "assets/garras_ursa_43.jpeg"
-  },
-  {
     "name": "Guitarra Doom",
     "hero": "",
     "price": 75,
@@ -268,16 +228,6 @@ window.catalogItems = [
     "stock": 1,
     "variant": "",
     "image": "assets/item_bug_axe_2200.jpeg"
-  },
-  {
-    "name": "Mitico Morphling",
-    "hero": "",
-    "price": 94,
-    "currency": "S/",
-    "type": "Tradeable",
-    "stock": 1,
-    "variant": "",
-    "image": "assets/mitico_morphling_94.jpeg"
   },
   {
     "name": "Serrucho Pudge",
